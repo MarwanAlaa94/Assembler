@@ -1,0 +1,19 @@
+  NAME       START   0
+     LDA     #0
+LOOPA    TD      INDEV
+         +JEQ     LOOPB
+ .resw 1000
+         RD      INDEV
+         SUB     ZERO
+         MUL     #10
+         RMO     A,S
+LOOPB    TD      INDEV
+         JEQ     LOOPB
+         RD      INDEV
+         SUB     ZERO
+	ORG    Loopb-loopa
+         ADDR    S,A
+         J       *
+INDEV    BYTE    X'F3'
+ZERO     WORD    48
+         END     NAME

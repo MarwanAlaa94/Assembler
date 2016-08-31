@@ -1,0 +1,152 @@
+   asdl	START	0000
+     byte        C'13adda'
+     c      '       '
+     fad    byte                 'sos'
+	axsdad   word    -1
+	sadjakcx resw     -2
+	accc    jgt         #       strin
+	azxzx           addr                l   ,,s
+	zby add         #           12fsdffsd
+	byte   -
+    +L     lda      #    string , x
+    +l     lda string      ,     x
+    samah lda string      ,     x
+	label RSUB
+	fady lda      #    string , x
+	tixr    a
+	farid           tixr        @       19
+	 mziz    lds       @    soad
+	 lol    lds       @    #soad
+     byte        C'13adda'
+     c      '       '
+     fad    byte                 'sos'
+     col    byte        CC  'las'
+     xol    byte       c'las'
+     lda  l
+     sol   lda  lo
+                +l  l   ,   s
+     c  '123'   dadsa
+		ADEL	BYTE   X'012Ada'
+
+		+shiftl   a , 5
+  +RMO a,s
++lda ahmed
+l  a d d 7
+adle    L    #12
++tixr    a     ,     b
+adel   +td    #    mamdouh
+lotfy           byte        X   '           13sadda'
+mandouh           byte        X   '           3fadda'
+    byte X  'fada'
+    byte C ' '
+    byte C  'a '
+	resb		-10
+ byte        X   '           13adda'
+   byte        X   '           13adda'
+     byte        C'13adda'
+  byte        X'13adda'
+  +byte    x'1234'
+  resw	-100000
+  resw 123
+  resw '1123'
+  resw  x'1a'
+		xzc word 12
+    +wd     @               hassan
+    +wx         @   aly
+    lda     #12
+    lda         @           15
+    lda             x       '       1234'
+		ResW    123
+		rbnkh		+lda '              12
+rbnkh		+lda               12
+lda    5 8 7 g
+adr				Byte   x    '     1   2   a   3 2  '
+adr +lda   aly
+		+hamda #12
+	+lda			Byte   x    '   0   1   2   a   3 2  '
+
+		+X #12
+		Equ
+		ORG
+		+ORG
+		+ EQU
+		+ lda    #  12
+		    +Equ
+
+		+tix adel
+		+wd  index
+	+LDa	STRING     	 	 	 	, x
+	+LDa	@STRING     	 	 	 	, x
+	+LDa	#STRING     	 	 	 	, x
+    +Rmo a , x
+    rMO S     , L
+    j *       *
+  asdcxzc  j *
+j        *
+*              j   *
+* j aly
+
+
+                j                       #100
+xz		mahmoud mahmoud rsub
+		rsub rsub basma
+		shiftl   s,x
+		shift l   s ,   ks
+		shiftr    a     ,          8
+		shiftl      a               ,       31
+		shiftr            f                         ,   41       ,
+		shiftr            w                 y           ,
+basma           		shiftr             l    ,      '' 12
+basma   shiftr  @20,            a
+basma shiftr  @a,20
+
+shiftr
+shiftr  sherouk
+helim   shiftl   20 , l
+gamal   shiftr              a       ,           12
+		+rsub 20
+adle +rsub
+amir +rsub    aly
+shiftl    a,20
+shiftl   a,x
+		rsub      20
+adel	Byte   x'012aXz'
+		RSUB
+		word    12asd
+		+tixr  adl
+		+addr   del
+		EQU		EQU
+		word    1842792
+	T	LDA		#6
+	6DFG	LDA 	#6
+	EQU
+	word #123
+	.       nsionda  asd
+	RMO
+	RMO S
+	RMO  S   	,    	A
+	RMO		S,
+	ADDR	S 	A
+	.asdsdaqqweqweqweasdaca
+	RMO 	, W
+	TIX 	Ar
+	start adel
+	label TIXR	#S
+	RSUB
+	+RSUB
+	RSUB	45
+	LABEL	RSUB	465
+	LABEL	LABEL	RSUB
+	RSUB	RSUB
+	MOhamed AYsadb has Lda #12
+	lda lda
+	lda #@adel
+	J	*	HAMADA
+	*	ADD	@5
+	LDT	@12
+	END	6DFE
+
+		asdasd
+
+
+				.12312312sadwqdadqdwqdqw

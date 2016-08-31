@@ -1,0 +1,21 @@
+sum 	start   0
+first   ldx 	#0
+    	lda	#0
+    	+ldb    #table2
+        lda     =12
+        lda     =12
+    	base    table2
+loop 	add 	table3,x
+    	add 	table2,x
+    	tix     =c'ABC'
+        ltorg
+    	jlt 	loop
+    	+sta    =12
+    	+rsub    
+count   resw    1
+v       byte    c'aBc'
+table   resw    2000
+table2  resw    2000
+total   resw    1
+total   equ     1+v-table3
+	end     second

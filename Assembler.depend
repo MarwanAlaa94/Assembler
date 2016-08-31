@@ -1,0 +1,196 @@
+# depslib dependency file v1.0
+1461849276 source:c:\users\mohdahmed\downloads\assembler\instruction.cpp
+	"instruction.h"
+
+1462360020 c:\users\mohdahmed\downloads\assembler\instruction.h
+	<iostream>
+
+1462359987 source:c:\users\mohdahmed\downloads\assembler\pass1.cpp
+	"pass1.h"
+	"parser.h"
+
+1462360046 c:\users\mohdahmed\downloads\assembler\pass1.h
+	"parser.h"
+	"instruction.h"
+
+1461804360 c:\users\mohdahmed\downloads\assembler\parser.h
+	"instruction.h"
+	"regexbuilder.h"
+
+1462360206 c:\users\mohdahmed\downloads\assembler\regexbuilder.h
+	<bits/stdc++.h>
+
+1462361290 source:c:\users\mohdahmed\downloads\assembler\regexbuilder.cpp
+	"regexbuilder.h"
+
+1462365589 source:c:\users\mohdahmed\downloads\assembler\main.cpp
+	<iostream>
+	"parser.h"
+	"instruction.h"
+	"pass1.h"
+
+1462369069 source:c:\users\mohdahmed\downloads\assembler\parser.cpp
+	"parser.h"
+	"regexbuilder.h"
+
+1461849276 source:c:\users\mohdahmed\downloads\05_phase1\assembler\instruction.cpp
+	"instruction.h"
+
+1462360020 c:\users\mohdahmed\downloads\05_phase1\assembler\instruction.h
+	<iostream>
+
+1462567001 source:c:\users\mohdahmed\downloads\05_phase1\assembler\main.cpp
+	<iostream>
+	"parser.h"
+	"instruction.h"
+	"pass1.h"
+	"process_utils.h"
+	<unordered_map>
+
+1462603856 c:\users\mohdahmed\downloads\05_phase1\assembler\parser.h
+	"instruction.h"
+	"regexbuilder.h"
+
+1462567178 c:\users\mohdahmed\downloads\05_phase1\assembler\regexbuilder.h
+	<bits/stdc++.h>
+
+1462603854 c:\users\mohdahmed\downloads\05_phase1\assembler\pass1.h
+	"parser.h"
+	"instruction.h"
+
+1462562961 source:c:\users\mohdahmed\downloads\05_phase1\assembler\parser.cpp
+	"parser.h"
+	"regexbuilder.h"
+	"process_utils.h"
+
+1462602960 source:c:\users\mohdahmed\downloads\05_phase1\assembler\pass1.cpp
+	"pass1.h"
+	"parser.h"
+	"process_utils.h"
+
+1462601405 source:c:\users\mohdahmed\downloads\05_phase1\assembler\regexbuilder.cpp
+	"regexbuilder.h"
+
+1462602364 c:\users\mohdahmed\downloads\05_phase1\assembler\process_utils.h
+	"instruction.h"
+	"regexbuilder.h"
+	<queue>
+	<map>
+
+1462602415 source:c:\users\mohdahmed\downloads\05_phase1\assembler\process_utils.cpp
+	"process_utils.h"
+
+1462604937 source:c:\users\mohdahmed\downloads\05_phase1\assembler\pass2.cpp
+	"pass2.h"
+
+1462604948 c:\users\mohdahmed\downloads\05_phase1\assembler\pass2.h
+	"pass1.h"
+
+1461849276 source:f:\pdfs\second term\systems programming\05_phase1\assembler\instruction.cpp
+	"instruction.h"
+
+1462360020 f:\pdfs\second term\systems programming\05_phase1\assembler\instruction.h
+	<iostream>
+
+1462671023 source:f:\pdfs\second term\systems programming\05_phase1\assembler\main.cpp
+	<iostream>
+	"parser.h"
+	"instruction.h"
+	"pass2.h"
+	"process_utils.h"
+	<unordered_map>
+
+1462603856 f:\pdfs\second term\systems programming\05_phase1\assembler\parser.h
+	"instruction.h"
+	"regexbuilder.h"
+
+1462567178 f:\pdfs\second term\systems programming\05_phase1\assembler\regexbuilder.h
+	<bits/stdc++.h>
+
+1462723353 f:\pdfs\second term\systems programming\05_phase1\assembler\pass1.h
+	"parser.h"
+	"instruction.h"
+
+1462636475 f:\pdfs\second term\systems programming\05_phase1\assembler\process_utils.h
+	"instruction.h"
+	"regexbuilder.h"
+	<queue>
+	<map>
+
+1462701705 source:f:\pdfs\second term\systems programming\05_phase1\assembler\parser.cpp
+	"parser.h"
+	"regexbuilder.h"
+	"process_utils.h"
+
+1462724298 source:f:\pdfs\second term\systems programming\05_phase1\assembler\pass1.cpp
+	"pass1.h"
+	"parser.h"
+	"process_utils.h"
+
+1462721011 source:f:\pdfs\second term\systems programming\05_phase1\assembler\process_utils.cpp
+	"process_utils.h"
+
+1462701659 source:f:\pdfs\second term\systems programming\05_phase1\assembler\regexbuilder.cpp
+	"regexbuilder.h"
+
+1462724086 source:f:\pdfs\second term\systems programming\05_phase1\assembler\pass2.cpp
+	"pass2.h"
+	"process_utils.h"
+
+1462722238 f:\pdfs\second term\systems programming\05_phase1\assembler\pass2.h
+	"pass1.h"
+
+1461849276 source:c:\users\micro systems\desktop\assembler\instruction.cpp
+	"instruction.h"
+
+1462360020 c:\users\micro systems\desktop\assembler\instruction.h
+	<iostream>
+
+1462671023 source:c:\users\micro systems\desktop\assembler\main.cpp
+	<iostream>
+	"parser.h"
+	"instruction.h"
+	"pass2.h"
+	"process_utils.h"
+	<unordered_map>
+
+1462603856 c:\users\micro systems\desktop\assembler\parser.h
+	"instruction.h"
+	"regexbuilder.h"
+
+1462567178 c:\users\micro systems\desktop\assembler\regexbuilder.h
+	<bits/stdc++.h>
+
+1462723353 c:\users\micro systems\desktop\assembler\pass1.h
+	"parser.h"
+	"instruction.h"
+
+1462636475 c:\users\micro systems\desktop\assembler\process_utils.h
+	"instruction.h"
+	"regexbuilder.h"
+	<queue>
+	<map>
+
+1462701705 source:c:\users\micro systems\desktop\assembler\parser.cpp
+	"parser.h"
+	"regexbuilder.h"
+	"process_utils.h"
+
+1462723405 source:c:\users\micro systems\desktop\assembler\pass1.cpp
+	"pass1.h"
+	"parser.h"
+	"process_utils.h"
+
+1462701659 source:c:\users\micro systems\desktop\assembler\regexbuilder.cpp
+	"regexbuilder.h"
+
+1462724086 source:c:\users\micro systems\desktop\assembler\pass2.cpp
+	"pass2.h"
+	"process_utils.h"
+
+1462722238 c:\users\micro systems\desktop\assembler\pass2.h
+	"pass1.h"
+
+1462721011 source:c:\users\micro systems\desktop\assembler\process_utils.cpp
+	"process_utils.h"
+

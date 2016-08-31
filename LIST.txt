@@ -1,0 +1,30 @@
+0	  NAME       START   0
+0	     LDA     #0
+3	LOOPA    TD      INDEV
+6	         +JEQ     LOOPB
+ .resw 1000
+a	         RD      INDEV
+d	         SUB     ZERO
+10	         MUL     #10
+13	         RMO     A,S
+15	LOOPB    TD      INDEV
+18	         JEQ     LOOPB
+1b	         RD      INDEV
+1e	         SUB     ZERO
+21		ORG    Loopb-loopa
+12	         ADDR    S,A
+14	         J       *
+17	INDEV    BYTE    X'F3'
+18	ZERO     WORD    48
+1b	         END     NAME
+
+
+***symbol table:
+
+0	name
+3	loopa
+15	loopb
+17	indev
+18	zero
+
+Complete Assembly 
